@@ -76,5 +76,4 @@
 * **Master Pages:** Use master pages to maintain consistency.
 * **Export Options:** Export your designs in various formats, including PDF and EPUB.
 
-## Take a Look:
-[SCREENSHOT](https://imgur.com/a/BPOSkry)
+
